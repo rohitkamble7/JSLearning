@@ -11,3 +11,5 @@ var temp="100"
 num2=temp;
 
 console.log("Num2 Output:",num2);
+
+console.log(num2);

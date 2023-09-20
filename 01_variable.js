@@ -10,7 +10,7 @@ console.log(firstName);
 
 var lastName = "kamble"; // variable declaration and initialization
 
-console.log(lastName);
+console.log(lastName); console
 
  
 
