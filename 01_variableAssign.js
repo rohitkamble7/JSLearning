@@ -1,8 +1,8 @@
-var myFullName;
+var myFullName;  // Variable declaration//
 console.log(myFullName);
-myFullName="Rohit Kamble"
+myFullName="Rohit Kamble" //Variable Initialization//
 console.log(myFullName);
-myfullName='Rohit Daji Kamble'
+myfullName='Rohit Daji Kamble' //Variable Update//
 console.log(myfullName);
 
 
