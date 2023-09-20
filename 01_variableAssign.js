@@ -1,4 +1,4 @@
-var myFullName
+var myFullName;
 console.log(myFullName);
 myFullName="Rohit Kamble"
 console.log(myFullName);
@@ -6,7 +6,7 @@ myfullName='Rohit Daji Kamble'
 console.log(myfullName);
 
 
-var myLove='i love only JS'
+var myLove='i love only JS';
 console.log(myLove);
 
 var firstName='Rohit'
@@ -14,17 +14,17 @@ console.log("My first name:",firstName);
 var lastName="kamble"
 console.log("My last name:",lastName);
 
-var age="27"
+var age="27";
 console.log("Age:",age);
 
-var address="pune"
+var address="pune";
 console.log("My address:",address);
 
-var pincode="411033"
+var pincode="411033";
 console.log("Pincode:",pincode);
 
-var gender="male"
+var gender="male";
 console.log("Gender:",gender);
 
-var isMarried="Unmarried"
+var isMarried="Unmarried";
 console.log("Marital Status:",isMarried);
