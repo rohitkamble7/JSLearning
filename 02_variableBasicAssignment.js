@@ -42,5 +42,8 @@ console.log("================> Null Vs Undefined <=================");
 
 console.log("Undefined Means Value Does Not Assign To variable");
 console.log(
-  "Where as Null Define That Value is assigned but it set to be Null."
-);
+  "Where as Null Define That Value is assigned but it set to be Null.");
+
+  console.log("Value:-",null,"Data Types:-",typeof null);
+
+  console.log("Value:-",undefined, "Data Types:-",typeof undefined);
