@@ -5,9 +5,9 @@ console.log("====> Function With No Argument And No Return Value <=====");
 function Learn(){
 
     console.log("====Statement 1====");
-    console.log("The Quality of Your Life is purely your responsibility");
+    console.log("There are two ways of spreading light to be candle, or the mirror that reflects it.");
     console.log("====Statement 2====");
-    console.log("No Blame is allowed");
+    console.log("Make it work, make it right, make it fast.");
 }
 Learn();
 console.log("-------------------------------------------------------------");
