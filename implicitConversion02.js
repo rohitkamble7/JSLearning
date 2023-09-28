@@ -20,7 +20,7 @@ var result;
 result= 4 + true;
 console.log(`===> (4 + true) `);
 console.log(`===> True(Boolean) Implicit converted to 1(number)
-Result: (4+true)==> ${result}`);
+Result: (4 + true)==> ${result}`);
 console.log(`
 `);
 
@@ -29,5 +29,5 @@ var result;
 result= 4 + false;
 console.log(`===> (4 + false) `);
 console.log(`===> False (Boolean) Implicit converted to 0(number)
-Result: (4+false)==> ${result}`);
+Result: (4 + false)==> ${result}`);
 
