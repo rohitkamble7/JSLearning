@@ -1,6 +1,6 @@
-console.log("=============Assignment On Ternary Operator=============");
+console.log("=============Assignment On Ternary Operator=======================");
 
-console.log("*********************Step-1*******************************");
+console.log("*********************Step-1***************************************");
 
 function maleMarriageEligibility(gender,age, boyName){
 
@@ -22,7 +22,7 @@ console.log(result2);
 console.log(`
 `);
 
-console.log("*********************Step-2*******************************");
+console.log("*********************Step-2*****************************************");
 
 function femaleMarriageEligibility( gender,age, girlName){
 
