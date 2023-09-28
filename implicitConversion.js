@@ -44,7 +44,7 @@ result= '4' - '2'
 
 console.log(`Initially Both Values are String`);
 console.log(`"4"(string) Implicit converted to 4(number) and "2" (String) as well.
-Result is:${result}`);
+Result:('4'-'2')==>${result}`);
 
 console.log(`------------------------------------------------------------------------------------`);
 result = '4'-2
