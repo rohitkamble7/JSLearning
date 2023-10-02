@@ -31,4 +31,3 @@ for (let index = 1; index <=30 ; index=index+2) {
 //for (let index = 100; index>=10; index=index-10) {
    // console.log(index);
     
-}
