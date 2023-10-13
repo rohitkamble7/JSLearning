@@ -45,7 +45,7 @@ let sbiDetails= Object.assign(bankSbi,bankLocation,rateOfInterest)
 console.table(sbiDetails);
 
 console.log(`--------------------------------------------------------------------------------`);
-
+console.log(`----------------Traverse The Merge Object---------------------------------------`);
 
 for (const key in sbiDetails) {
      {
