@@ -43,3 +43,8 @@ for (let index = num; index>=1; index--) {
 }
 factorial(3);
 factorial(4);
+
+
+
+
+
