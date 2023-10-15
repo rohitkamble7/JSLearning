@@ -29,15 +29,15 @@ console.log(InfoOfEmp);
 console.log(`-----------------------------------------------------------------------------`);
 
 
-const nameDev = InfoOfEmp.role[0];
+const roleOfEmp = InfoOfEmp.role[0];
 
-console.log(`Log In role of Employee Is: ${nameDev}`);
+console.log(`Log In role of Employee Is: ${roleOfEmp}`);
 
 console.log(`------------------------------------------------------------------------------`);
 
-let SplitWord = InfoOfEmp.name.split(" ")
+let lastNameOfEmp = InfoOfEmp.name.split(" ")
 
-console.log(`Log the Last Name Of Employee Is: ${SplitWord[1]}`);
+console.log(`Log the Last Name Of Employee Is: ${lastNameOfEmp[1]}`);
 console.log(`------------------------------------------------------------------------------`);
 
 
