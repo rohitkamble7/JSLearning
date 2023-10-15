@@ -16,22 +16,21 @@ function isPrimeNumber(num){
 
 }
 
-const result = isPrimeNumber(11);
+const result = isPrimeNumber(1);
 
 console.log(`Is Number Prime: ${result}`);
 
 
 
 
-let prime=[11,54,65,85,44]
+//let prime=[11,54,65,85,44]
 
-function prime() {
+//function prime() {
     
-for (let index = 0; index < array.length; index++) {
-    const element = array[index];
+//for (let index = 0; index < array.length; index++) {
+   // const element = array[index];
     
-}
 
-}
 
-prime()
+
+
