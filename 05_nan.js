@@ -10,7 +10,7 @@ console.log(typeof result);
 
  
 
-var num = "20";
+var num = "21";
 
 console.log(num, typeof num);
 
