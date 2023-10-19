@@ -162,3 +162,22 @@ for (const index in shivk) {
   console.log(`${index} : ${element}`);
 }
 
+
+
+console.log(`===============================================`);
+
+function checkValues(num) {
+  
+if (num%2==0) {
+  console.log(`given Number is Even: ${num}`);
+} else {
+  
+  console.log(`not a even number`);
+}
+
+}
+
+checkValues(48)
+
+
+
