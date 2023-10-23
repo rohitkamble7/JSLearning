@@ -181,3 +181,26 @@ checkValues(48)
 
 
 
+//var array= [22,11,44,55,77,33]
+
+
+//let result5= array.splice(1,3);
+
+//console.log(result5);
+
+
+var array= [22,11,44,55,77,33]
+
+let aaa=array.splice(2,2);
+
+console.log(aaa);
+
+
+let ffj= array.splice(0,2)
+
+console.log(ffj);
+
+var array= [22,11,44,55,77,33]
+let ddd= array.splice(0,1);
+console.log(ddd);
+
