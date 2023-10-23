@@ -1,7 +1,7 @@
 console.log(`===============Assignment On Reduce Method================`);
 
 
-const array_Number = [20,1,40,25,37,49,9,90,60,2,19]
+const array_Number = [20,11,40,25,37,49,9,90,60,2,19]
 
 
  const sumArray = array_Number.reduce((runningTotal,Value)=>{
@@ -15,7 +15,7 @@ console.log(`--------------------------------------------------------------`);
 
 console.log(`-------Sum Of Array Using Traditional Way----------------------`);
 
-const array_Numbers = [20,1,40,25,37,49,9,90,60,2,19]
+const array_Numbers = [20,11,40,25,37,49,9,90,60,2,19]
 
        let sum=0;
 
@@ -28,7 +28,7 @@ console.log(`Sum Of All Element Using Traditional For Loop Is: ${sum}`);
 console.log(`---------------------------------------------------------------`);
 
 
-const array_Numberss = [20,1,40,25,37,49,9,90,60,2,19];
+const array_Numberss = [20,11,40,25,37,49,9,90,60,2,19];
 
  let numDiv5 = array_Numberss.filter((currentValue)=>{
 
