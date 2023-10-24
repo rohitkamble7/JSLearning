@@ -204,3 +204,33 @@ var array= [22,11,44,55,77,33]
 let ddd= array.splice(0,1);
 console.log(ddd);
 
+let str = ["i", "love" ,"you"];
+
+let result7= str.reverse()
+console.log(result7);
+
+
+console.log(`======================================================`);
+
+
+var array= ['Amruta',"Priya","Neelam", "Rohit"]
+
+let resultsort= array.sort();
+console.log(resultsort);
+
+let ggg= resultsort.reverse()
+console.log(ggg );
+
+var array=[20,10,56,666,4522,486,45,11,6,5,]
+
+var sorted= array.sort()
+console.log(sorted);
+
+var array=[20,10,56,666,4522,486,45,11,6,5,]
+
+var sorted1= array.sort((a,b)=>{
+
+   return a<b ? 1:-1
+
+})
+console.log(sorted1);
