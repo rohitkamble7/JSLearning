@@ -68,7 +68,6 @@ let empSalaryDetails = arrayEmployess.sort((emp1, emp2) => {
 });
 
 empSalaryDetails.forEach((currentValue) => {
-  console.log(
-    `Employee Name: ${currentValue.emp_name}  ::   Employee Salary: ${currentValue.emp_salary} ==> Employee Company: ${currentValue.emp_company}`
+  console.log(`Employee Name: ${currentValue.emp_name} ==> Employee Salary: ${currentValue.emp_salary} ==> Employee Company: ${currentValue.emp_company}`
   );
 });
